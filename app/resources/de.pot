@@ -6,7 +6,7 @@ msgstr ""
 
 #: app/scripts/services/drivers.js:197
 #: app/scripts/services/drivers.js:81
-msgid "<b>Unplug</b> and <b>reconnect</b> the board"
+msgid "<b>Abstecken</b> und </b>connect</b> the board"
 msgstr ""
 
 #: app/scripts/services/drivers.js:188
@@ -236,19 +236,19 @@ msgid "Enable"
 msgstr ""
 
 #: app/views/languages.html:4
-msgid "English"
+msgid "Deutsch"
 msgstr ""
 
 #: app/scripts/services/blocks.js:185
-msgid "Enter the constant blocks"
+msgid "Block für Konstante erzeugen"
 msgstr ""
 
 #: app/scripts/services/blocks.js:52
-msgid "Enter the input blocks"
+msgid "Block für Eingabe erzeugen"
 msgstr ""
 
 #: app/scripts/services/blocks.js:275
-msgid "Enter the input ports"
+msgid "Eingabe ports eingeben"
 msgstr ""
 
 #: app/scripts/services/blocks.js:114
@@ -272,19 +272,19 @@ msgid "Error: default toolchain not found in '{{dir}}'"
 msgstr ""
 
 #: app/scripts/services/utils.js:639
-msgid "Error: {{error}}"
+msgid "Fehler: {{error}}"
 msgstr ""
 
 #: app/views/menu.html:39
-msgid "Examples"
+msgid "Beispiele"
 msgstr ""
 
 #: app/scripts/services/tools.js:205
-msgid "Execute remote {{label}} ..."
+msgid "Remote ausführen {{label}} ..."
 msgstr ""
 
 #: app/views/menu.html:54
-msgid "Export"
+msgid "Exportieren"
 msgstr ""
 
 #: app/scripts/services/tools.js:495
@@ -344,7 +344,7 @@ msgid "Galician"
 msgstr ""
 
 #: app/views/menu.html:285
-msgid "Help"
+msgid "Hilfe"
 msgstr ""
 
 #: app/scripts/services/drivers.js:103
@@ -352,7 +352,7 @@ msgid "Homebrew is required"
 msgstr ""
 
 #: app/scripts/services/utils.js:512
-msgid "Image"
+msgid "Ent"
 msgstr ""
 
 #: app/scripts/controllers/menu.js:650
